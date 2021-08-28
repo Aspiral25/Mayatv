@@ -177,7 +177,8 @@ http://194.233.68.128:5080/LiveApp/streams/590383677711916427838454.m3u8
 #EXTINF:-1 group-title="Sukan" tvg-id="800" tvg-chno="800" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/800.png",eGG Network
 https://linear01-playback.sooka.my/CH2/masterCH2.mpd
 #EXTINF:-1 tvg-id="811" tvg-name="ASTRO Supersport" tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png" group-title="Sukan",ASTRO Supersport
-http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/66.m3u8
+#http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/66.m3u8
+https://d1jliyqx70imb8.cloudfront.net/out/v1/2b69d7c52bc84bbabac2c8fdd6cfde40/index_4.m3u8
 #EXTINF:-1 tvg-id="812" tvg-name="ASTRO Supersport 2" tvg-logo="https://i.postimg.cc/LXv2LpmL/Astro-Super-Sport-2.png" group-title="Sukan",ASTRO Supersport 2
 http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/67.m3u8
 #EXTINF:-1 tvg-id="813" tvg-name="ASTRO Supersport 3" tvg-logo="https://i.postimg.cc/3wmgKLYP/200px-Astro-ASSP3.png" group-title="Sukan",ASTRO Supersport 3
