@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="101",TV1
+#EXTINF:1 tvg-id="101",TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 tvg-id="102" tvg-name="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="MYTV",TV2
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
