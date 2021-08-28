@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/thisistyx/epg/master/astro.xml" refresh="3600"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/thisistyx/epg/master/astro.xml" refresh="3600"
 
 #EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="MYTV",TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
