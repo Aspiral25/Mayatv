@@ -180,7 +180,8 @@ https://linear01-playback.sooka.my/CH2/masterCH2.mpd
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/66.m3u8
 https://d1jliyqx70imb8.cloudfront.net/out/v1/2b69d7c52bc84bbabac2c8fdd6cfde40/index_4.m3u8
 #EXTINF:-1 tvg-id="812" tvg-name="ASTRO Supersport 2" tvg-logo="https://i.postimg.cc/LXv2LpmL/Astro-Super-Sport-2.png" group-title="Sukan",ASTRO Supersport 2
-http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/67.m3u8
+#http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/67.m3u8
+http://ueefa.mazystreams.xyz/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDEyOjI2OjAxIFBNJmhhc2hfdmFsdWU9c3UwYm1RY1JsY2doNFpHT2prUTVBQT09JnZhbGlkbWludXRlcz0xMjAmaWQ9NjIuNC4xNTkuMTA5JnN0cm1fbGVuPTU=
 #EXTINF:-1 tvg-id="813" tvg-name="ASTRO Supersport 3" tvg-logo="https://i.postimg.cc/3wmgKLYP/200px-Astro-ASSP3.png" group-title="Sukan",ASTRO Supersport 3
 http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/68.m3u8
 #EXTINF:-1 tvg-id="814" tvg-name="ASTRO Supersport 4" tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="Sukan",ASTRO Supersport 4
