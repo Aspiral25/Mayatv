@@ -103,35 +103,35 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=
 
 
 
-#EXTINF:-1 tvg-id="701" tvg-name="AXN" tvg-logo="https://i.postimg.cc/76XKMVKh/Cb-Sp-RQ2-WEAEEr-Tn-jpg-large.jpg" group-title="TV PREMIUM",AXN
+#EXTINF:-1 tvg-id="701" tvg-name="AXN" tvg-logo="https://i.postimg.cc/76XKMVKh/Cb-Sp-RQ2-WEAEEr-Tn-jpg-large.jpg" group-title="Premium VIP",AXN
 http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/63.m3u8
-#EXTINF:-1 tvg-id="394" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" group-title="TV PREMIUM",Oh!K HD 
+#EXTINF:-1 tvg-id="394" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" group-title="Premium VIP",Oh!K HD 
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-#EXTINF:-1 tvg-id="396" tvg-logo="https://user-images.githubusercontent.com/85995579/128629428-91d4dbdd-9b18-498c-a5d7-df251c90a1aa.png" group-title="TV PREMIUM",KPlus HD
+#EXTINF:-1 tvg-id="396" tvg-logo="https://user-images.githubusercontent.com/85995579/128629428-91d4dbdd-9b18-498c-a5d7-df251c90a1aa.png" group-title="Premium VIP",KPlus HD
 http://playlist.urfan.web.id/session/8b6b2702-042f-11ec-8d82-b99bb82def67/uq2663/h/h08/01.m3u8
-#EXTINF:-1 tvg-id="550" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png" group-title="TV PREMIUM",National Geographic Wild Asia
+#EXTINF:-1 tvg-id="550" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png" group-title="Premium VIP",National Geographic Wild Asia
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 tvg-country="" tvg-logo="https://i.pinimg.com/originals/50/47/55/5047550d7fe1c855dec048aa83be12ae.png" group-title="TV PREMIUM",ANIMAL PLANET
+#EXTINF:-1 tvg-country="" tvg-logo="https://i.pinimg.com/originals/50/47/55/5047550d7fe1c855dec048aa83be12ae.png" group-title="Premium VIP",ANIMAL PLANET
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 tvg-id="552" tvg-name="DISCOVERY Channel" tvg-logo="https://i.postimg.cc/gJ8qCyH4/Discovery-Stacked.png" group-title="TV PREMIUM",DISCOVERY Channel
+#EXTINF:-1 tvg-id="552" tvg-name="DISCOVERY Channel" tvg-logo="https://i.postimg.cc/gJ8qCyH4/Discovery-Stacked.png" group-title="Premium VIP",DISCOVERY Channel
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/98.m3u8
 http://
-#EXTINF:-1 tvg-id="553" tvg-name="DISCOVERY Asia" tvg-logo="https://i.postimg.cc/gJ8qCyH4/Discovery-Stacked.png" group-title="TV PREMIUM",DISCOVERY Asia
+#EXTINF:-1 tvg-id="553" tvg-name="DISCOVERY Asia" tvg-logo="https://i.postimg.cc/gJ8qCyH4/Discovery-Stacked.png" group-title="Premium VIP",DISCOVERY Asia
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/82.m3u8
 http://
-#EXTINF:-1 tvg-id="555" tvg-name="HISTORY Channel" tvg-logo="https://variety.com/wp-content/uploads/2018/02/history-channel-logo.jpg?w=1000" group-title="TV PREMIUM",HISTORY Channel
+#EXTINF:-1 tvg-id="555" tvg-name="HISTORY Channel" tvg-logo="https://variety.com/wp-content/uploads/2018/02/history-channel-logo.jpg?w=1000" group-title="Premium VIP",HISTORY Channel
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/94.m3u8
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="TV PREMIUM",Love Nature 4K
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="Premium VIP",Love Nature 4K
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="715" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="TV PREMIUM",HGTV
+#EXTINF:-1 tvg-id="715" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Premium VIP",HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="TV PREMIUM",NASA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Premium VIP",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="707" tvg-name="TLC" tvg-logo="https://i.postimg.cc/5tpf0DbG/7933.jpg" group-title="TV PREMIUM",TLC
+#EXTINF:-1 tvg-id="707" tvg-name="TLC" tvg-logo="https://i.postimg.cc/5tpf0DbG/7933.jpg" group-title="Premium VIP",TLC
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/84.m3u8
 http://
-#EXTINF:-1 tvg-id="708" tvg-name="Asia Food Network" tvg-logo="https://i.postimg.cc/3NtVsh83/1200px-Asian-Food-Network-svg.png" group-title="TV PREMIUM",Asia Food Network
+#EXTINF:-1 tvg-id="708" tvg-name="Asia Food Network" tvg-logo="https://i.postimg.cc/3NtVsh83/1200px-Asian-Food-Network-svg.png" group-title="Premium VIP",Asia Food Network
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/85.m3u8
 http://
 
