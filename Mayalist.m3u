@@ -119,7 +119,7 @@ http://
 #EXTINF:-1 tvg-id="553" tvg-name="DISCOVERY Asia" tvg-logo="https://i.postimg.cc/gJ8qCyH4/Discovery-Stacked.png" group-title="TV PREMIUM",DISCOVERY Asia
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/82.m3u8
 http://
-#EXTINF:-1 tvg-id="555" tvg-name="HISTORY Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="TV PREMIUM",HISTORY Channel
+#EXTINF:-1 tvg-id="555" tvg-name="HISTORY Channel" tvg-logo="https://variety.com/wp-content/uploads/2018/02/history-channel-logo.jpg?w=1000" group-title="TV PREMIUM",HISTORY Channel
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/94.m3u8
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="TV PREMIUM",Love Nature 4K
