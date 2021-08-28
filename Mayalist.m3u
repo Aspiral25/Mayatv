@@ -188,6 +188,10 @@ http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/69.m3u8
 http://194.233.68.128:5080/LiveApp/streams/520502764452315618812610.m3u8
 #EXTINF:-1 tvg-id="816" tvg-name="FOX Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="Sukan",FOX Sports 2
 http://194.233.68.128:5080/LiveApp/streams/468222652627503230280505.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sukan",BT SPORT 1
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19277
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sukan",BT SPORT 2
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19278
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png" group-title="Sukan",ESPN 1
 http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="Sukan",ESPN 2
