@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/thisistyx/epg/master/astro.xml"
 
-#EXTINF:1 tvg-id="101",TV1
+#EXTINF:-1 tvg-id="101",TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
