@@ -96,7 +96,7 @@ http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tchadcarriere.com/wp-content/uploads/2017/05/TRT-World.png" group-title="Dunia",TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.makkahtv.com/wp-content/uploads/2019/08/MakkahTV.png" group-title="Dunia",MakkahTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.playboard.app/p/AATXAJw-iUyR97oFl8fiassaTg8llEyB31BzYzup1fLJDKI/default.jpg" group-title="Dunia",MakkahTv
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
 
 
@@ -142,7 +142,7 @@ http://
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/flix-280-200.png" group-title="Movie",&FLIX HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvmalaysia.online/2021/06/prive.html" group-title="Movie",&Prive HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2020/06/25/868730-privehd.jpg" group-title="Movie",&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/393_300.png" group-title="Movie",ONE HD
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
@@ -183,15 +183,15 @@ http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/67.m3u8
 http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/68.m3u8
 #EXTINF:-1 tvg-id="814" tvg-name="ASTRO Supersport 4" tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="Sukan",ASTRO Supersport 4
 http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/69.m3u8
-#EXTINF:-1 tvg-id="815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/141_144.png" group-title="Sukan",FoxSport 1
+#EXTINF:-1 tvg-id="815" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/12/fs1-1024x576.png" group-title="Sukan",FoxSport 1
 http://194.233.68.128:5080/LiveApp/streams/520502764452315618812610.m3u8
-#EXTINF:-1 tvg-id="816" tvg-name="FOX Sports 2" tvg-logo="https://i.postimg.cc/ZYMPd4SS/1200px-Fox-Sports-Logo-svg.png" group-title="Sukan",FOX Sports 2
+#EXTINF:-1 tvg-id="816" tvg-name="FOX Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="Sukan",FOX Sports 2
 http://194.233.68.128:5080/LiveApp/streams/468222652627503230280505.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png" group-title="Sukan",ESPN 1
 http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://www.freepnglogos.com/uploads/espn.png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="Sukan",ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="Sukan",ESPN 2
 http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg group-title="Sukan",Setanta
+#EXTINF:-1 tvg-id="" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Sukan",Setanta
 http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1 tvg-id="HorizonSports.us" tvg-name="Horizon Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sjOIOkK.png" group-title="Sukan",Horizon Sports -A
 #https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
