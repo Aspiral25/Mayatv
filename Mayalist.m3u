@@ -78,6 +78,8 @@ https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="arirang.png" tvg-logo="http://0.soompi.io/wp-content/uploads/4/p/8c/389704/389704.png" group-title="Dunia",ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Dunia" tvg-logo="http://arirang.com/images/index/arirang.png",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="392" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png" group-title="Dunia",KBS WORLD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1 tvg-id="517" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK4kTvbHBoPmYS_VLZJhwG0pm1Ov63pFpghPZTcNzPrAaMtteK&s" group-title="Dunia",BLOOMBERG
@@ -119,7 +121,9 @@ http://
 http://
 #EXTINF:-1 tvg-id="555" tvg-name="HISTORY Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="TV PREMIUM",HISTORY Channel
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/94.m3u8
-http://
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="TV PREMIUM",Love Nature 4K
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="715" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="TV PREMIUM",HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 tvg-logo=http://kamiselaluada.com/img/nasatv.png group-title="TV PREMIUM",NASA TV
