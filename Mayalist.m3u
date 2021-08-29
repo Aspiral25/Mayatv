@@ -121,6 +121,8 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=
 
 #EXTINF:-1 tvg-id="701" tvg-name="AXN" tvg-logo="https://i.postimg.cc/76XKMVKh/Cb-Sp-RQ2-WEAEEr-Tn-jpg-large.jpg" group-title="Premium VIP",AXN
 http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/63.m3u8
+#EXTINF:-1 tvg-id="KIXHD" group-title="Premium VIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png",KIX HD 
+https://nonton.site:8443/Ainamanja/RPLf79Gusm/8
 #EXTINF:-1 tvg-id="394" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" group-title="Premium VIP",Oh!K HD 
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-1 tvg-id="396" tvg-logo="https://user-images.githubusercontent.com/85995579/128629428-91d4dbdd-9b18-498c-a5d7-df251c90a1aa.png" group-title="Premium VIP",KPlus HD
