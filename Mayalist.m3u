@@ -191,7 +191,8 @@ http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="801" tvg-name="ASTRO Arena" tvg-logo="https://i.postimg.cc/tgHPJhrw/Astro-Arena.jpg" group-title="Sukan",ASTRO Arena
 http://194.233.68.128:5080/LiveApp/streams/590383677711916427838454.m3u8
 #EXTINF:-1 group-title="Sukan" tvg-id="800" tvg-chno="800" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/800.png",eGG Network
-https://linear01-playback.sooka.my/CH2/masterCH2.mpd
+#https://linear01-playback.sooka.my/CH2/masterCH2.mpd
+http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 #EXTINF:-1 tvg-id="811" tvg-name="ASTRO Supersport" tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png" group-title="Sukan",ASTRO Supersport
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/66.m3u8
 https://d1jliyqx70imb8.cloudfront.net/out/v1/2b69d7c52bc84bbabac2c8fdd6cfde40/index_4.m3u8
@@ -211,11 +212,19 @@ http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19277
 #EXTINF:0 tvg-country="GB" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-2-100.png" group-title="Sukan",BT SPORT 2
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19278
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png" group-title="Sukan",ESPN 1
-http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
+#http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/3136
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="Sukan",ESPN 2
-http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
+#http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/3137
 #EXTINF:-1 tvg-id="" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Sukan",Setanta
 http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 tvg-id="BeINSPORTSMAX" group-title="Sukan" tvg-logo="https://i.postimg.cc/QxTnfTBd/bein-sports-max.png",beIN Sports MAX HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6748
+#EXTINF:-1 tvg-id="beINSports2.MACAN" group-title="Sukan" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2.png",beIN Sports 2
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60284
+#EXTINF:-1 tvg-id="EuroSport" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/38_144.png",Eurosport HD
+http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="HorizonSports.us" tvg-name="Horizon Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sjOIOkK.png" group-title="Sukan",Horizon Sports -A
 #https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
