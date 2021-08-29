@@ -19,7 +19,8 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
 https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="MYTV",AWESOME TV
-http://51.79.208.146:61980/myplay/c_58014/index.m3u8
+#http://51.79.208.146:61980/myplay/c_58014/index.m3u8
+http://iptv.tvmalaysia.cc:80/penang188/penang188/9016
 #EXTINF:-1 tvg-id="" tvg-name="TV Alhijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="MYTV",Al-hijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAJLGMXYIpbkNVsK628Fdah227BhdmD9Sjhv5qhiUFNcTQu8OT&s" group-title="MYTV",Drama Sangat
