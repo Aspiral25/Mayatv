@@ -90,6 +90,10 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
 #EXTINF:-1 tvg-id="513" tvg-name="AlJazeera" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/83d7b3d3df0b2dff23bf51ad0d028d6b.webp" group-title="Dunia",AlJazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="France24English" group-title="Dunia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/FRANCE_24_logo.svg/240px-FRANCE_24_logo.svg.png",France 24
+https://mediahomes.github.io/assets/yt/france24.m3u8|Referer=https://www.youtube.com
+#EXTINF:-1 tvg-id="BloombergHD" group-title="Dunia" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",Bloomberg TV HD
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="arirang.png" tvg-logo="http://0.soompi.io/wp-content/uploads/4/p/8c/389704/389704.png" group-title="Dunia",ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Dunia" tvg-logo="http://arirang.com/images/index/arirang.png",Arirang TV
