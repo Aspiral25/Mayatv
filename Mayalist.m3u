@@ -20,6 +20,7 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="MYTV",AWESOME TV
 #http://51.79.208.146:61980/myplay/c_58014/index.m3u8
+#backup-http://mantul.biz.id:8888/jiwa/jiwa/10650
 http://iptv.tvmalaysia.cc:80/penang188/penang188/9016
 #EXTINF:-1 tvg-id="" tvg-name="TV Alhijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="MYTV",Al-hijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
@@ -30,6 +31,7 @@ https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF:-1 tvg-id="502" tvg-name="Bernama TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" group-title="MYTV",Bernama -A
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 tvg-id="TVS.my" tvg-name="TVS" tvg-country="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/220px-TVS_Sarawak.jpg" group-title="MYTV",TVS
+#backup-http://iptv.tvmalaysia.cc:80/penang123/penang123/6846
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 
 
@@ -52,7 +54,7 @@ http://198.16.106.62:8278/streams/d/Ria/playlist.m3u8
 #EXTINF:-1 tvg-id="132" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="Astro",Astro Warna
 #http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 #http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/1706
-http://50.7.161.82:8278/streams/d/Warna/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang123/penang123/6740
 #EXTINF:-1 tvg-id="106" tvg-country="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Astro",Astro Oasis
 #backup-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/1701
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
@@ -61,16 +63,19 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71020
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1 tvg-id="108" tvg-name="Astro Citra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Astro",Astro Citra
+#backup-http://iptv.tvmalaysia.cc:80/penang123/penang123/7267
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="Astro",Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-id="112" tvg-name="Astro Rania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png" group-title="Astro",Astro Rania
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/6.m3u8
 #http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71144
-http://50.7.161.82:8278/streams/d/Rania/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/Rania/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang123/penang123/6729
 #EXTINF:-1 tvg-id="AstroAuraHD" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",Astro Aura HD
 #http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71145
-http://50.7.161.82:8278/streams/d/Aura/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/Aura/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang123/penang123/6713
 #EXTINF:-1 tvg-id="109" tvg-name="Naura" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" group-title="Astro",Astro Naura
 #backup-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71023
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
@@ -228,14 +233,14 @@ http://stream2.grandma.fit/fs2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="Sukan",ESPN 2
 #http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/3137
 http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Sukan",Setanta
+#EXTINF:-1 tvg-id="" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Sukan",Setanta 2
 http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1 tvg-id="BeINSPORTSMAX" group-title="Sukan" tvg-logo="https://i.postimg.cc/QxTnfTBd/bein-sports-max.png",beIN Sports MAX HD
 http://iptv.tvmalaysia.cc:80/321456/321456/6748
 #EXTINF:-1 tvg-id="beINSports2.MACAN" group-title="Sukan" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2.png",beIN Sports 2
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60284
+#http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60284
 #EXTINF:-1 tvg-id="EuroSport" group-title="Sukan" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/38_144.png",Eurosport HD
-http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
+#http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="HorizonSports.us" tvg-name="Horizon Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sjOIOkK.png" group-title="Sukan",Horizon Sports -A
 #https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
