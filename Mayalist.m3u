@@ -213,20 +213,18 @@ http://iptv.tvmalaysia.cc:80/penang188/penang188/6711
 #http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/59217
 #backup-http://meu02.cularu.com:8880/yw12m2n466/UYWyCspA67/59217
 http://iptv.tvmalaysia.cc:80/penang188/penang188/6712
-#EXTINF:-1 tvg-id="premierleague" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/LaLiga_Santander_%282%29.svg" group-title="Sukan",prmierleague
-https://dnynmpull.caiwunj.com/live/sd-1-3559607.m3u8?n=3559607&t=1622794534&i=47.56.99.175&s=7ef256ee905d5231743a073942061d52
 #EXTINF:-1 tvg-id="815" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/12/fs1-1024x576.png" group-title="Sukan",FoxSport 1
 http://194.233.68.128:5080/LiveApp/streams/520502764452315618812610.m3u8
 #EXTINF:-1 tvg-id="816" tvg-name="FOX Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="Sukan",FOX Sports 2
 #http://194.233.68.128:5080/LiveApp/streams/468222652627503230280505.m3u8
-http://stream2.grandma.fit/fs2.m3u8
 #EXTINF:0 tvg-country="GB" tvg-logo="https://i.pinimg.com/originals/fd/fa/7d/fdfa7d10052bf9e5a5658cdea9125c73.png" group-title="Sukan",BT SPORT 1
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19277
 #EXTINF:0 tvg-country="GB" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-2-100.png" group-title="Sukan",BT SPORT 2
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19278
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png" group-title="Sukan",ESPN 1
 #http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/3136
+#http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/3136
+http://stream2.grandma.fit/fs2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="Sukan",ESPN 2
 #http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
 http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/3137
