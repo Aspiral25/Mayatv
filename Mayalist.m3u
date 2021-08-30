@@ -51,7 +51,8 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 http://198.16.106.62:8278/streams/d/Ria/playlist.m3u8
 #EXTINF:-1 tvg-id="132" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="Astro",Astro Warna
 #http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/1706
+#http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/1706
+http://50.7.161.82:8278/streams/d/Warna/playlist.m3u8
 #EXTINF:-1 tvg-id="106" tvg-country="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Astro",Astro Oasis
 #backup-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/1701
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
