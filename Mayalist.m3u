@@ -58,17 +58,19 @@ http://50.7.161.82:8278/streams/d/Warna/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1 tvg-id="105" tvg-country="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Astro",Astro Prima
 #http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
-#backup-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71020
+#http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71020
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1 tvg-id="108" tvg-name="Astro Citra" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Astro",Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="Astro",Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-id="112" tvg-name="Astro Rania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png" group-title="Astro",Astro Rania
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/6.m3u8
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71144
+#http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71144
+http://50.7.161.82:8278/streams/d/Rania/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroAuraHD" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",Astro Aura HD
-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71145
+#http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71145
+http://50.7.161.82:8278/streams/d/Aura/playlist.m3u8
 #EXTINF:-1 tvg-id="109" tvg-name="Naura" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" group-title="Astro",Astro Naura
 #backup-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71023
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
