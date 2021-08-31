@@ -207,8 +207,8 @@ http://iptv.tvmalaysia.cc:80/penang123/penang123/6848
 #http://iptv.tvmalaysia.cc:80/penang123/penang123/6844
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 tvg-id="tvnmovies.my" tvg-name="tvN Movies" tvg-logo="http://tvmalaysia.cc:80/images/9d84ccde47792f4eae3504e6a68877c7.png" group-title="Movie",tvN Movies
-#https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6845
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+#http://iptv.tvmalaysia.cc:80/penang123/penang123/6845
 #EXTINF:-1 tvg-id="412" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png" tvg-name="CINEMAX" group-title="Movie",CINEMAX
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 tvg-id="411" tvg-country="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="Movie",HBO Malaysia
