@@ -41,9 +41,9 @@ http://iptv.tvmalaysia.cc:80/penang123/penang123/6846
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 group-title="Thai" tvg-id="" tvg-name="" tvg-logo="",THIARATH
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="https://1.bp.blogspot.com/-EXQx5Dd5E9U/WdLYuI86vUI/AAAAAAAAAGw/CBg2Q3TQJFIzZM9V5xf8TdVQJgh5UEksgCLcBGAs/s200/017.png",MONO 29_mono1080
+#EXTINF:-1 group-title="Thai" tvg-logo="https://1.bp.blogspot.com/-EXQx5Dd5E9U/WdLYuI86vUI/AAAAAAAAAGw/CBg2Q3TQJFIzZM9V5xf8TdVQJgh5UEksgCLcBGAs/s200/017.png",MONO 29
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1151192974.m3u8
-#EXTINF:-1 group-title="Thai" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,MCOT HD_mcot1080
+#EXTINF:-1 group-title="Thai" tvg-logo="https://4.bp.blogspot.com/-EJMzqaptjE4/WdLYrPkjFzI/AAAAAAAAAGA/DTMW7LhCwzsHWS-7m0bIo66lleke4ad1QCLcBGAs/s200/005.png,MCOT HD
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
 
 
