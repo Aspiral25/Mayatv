@@ -20,7 +20,8 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="MYTV",AWESOME TV
 #http://51.79.208.146:61980/myplay/c_58014/index.m3u8
-http://iptv.tvmalaysia.cc:80/penang123/penang123/9016
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9016
+#http://iptv.tvmalaysia.cc:80/penang123/penang123/9016
 #http://mantul.biz.id:8888/jiwa/jiwa/10650
 #EXTINF:-1 tvg-id="" tvg-name="TV Alhijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="MYTV",Al-hijrah
 #backup-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
