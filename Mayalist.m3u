@@ -187,6 +187,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6832
 #EXTINF:-1 tvg-name="Travel Channel HD" tvg-logo="http://tvmalaysia.cc:80/images/83d09665000ad543908d67e15689dc6c.jpg" group-title="Premium VIP",Travel Channel HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6833
+#EXTINF:-1 tvg-id="CHN" group-title="Premium VIP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/OC_Logo2017_Primary_2_%281%29.svg/revision/latest/scale-to-width-down/250?cb=20170428060035",Outdoor Channel
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="708" tvg-name="Asia Food Network" tvg-logo="https://i.postimg.cc/3NtVsh83/1200px-Asian-Food-Network-svg.png" group-title="Premium VIP",Asia Food Network
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/85.m3u8
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6693
