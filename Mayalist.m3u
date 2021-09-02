@@ -45,7 +45,7 @@ http://freelive2.inwstream.com:1935/freelive-edge/7hd/playlist.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="ch8.iptv36.my.to" group-title="Thai" tvg-logo="https://iptv36.my.to/logo/ch8.png?rev=8",CH8 Backup
 http://freelive.inwstream.com:1935/freelive-edge/ch8/playlist.m3u8
 #EXTINF:-1 tvg-chno="34" tvg-id="amarin.iptv36.my.to" group-title="Thai" tvg-logo="https://iptv36.my.to/logo/amarin.png?rev=8",Amarin TV HD
-https://s0.cdn.vet/live/ch26/i/ch26i.m3u8?sid=cjeOGM3OTQ2ZjllYTJjMGI4MGZiMwN2FhMjU3ZWEzNDA1YWM1
+https://s0.cdn.vet/live/ch26/i/ch26i.m3u8?sid=cjeY2ZmOWE4ZmZiOTlmOWZjZWVjNQODk4OGVhNzZkMmJmODE0
 #EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Thai",Thai PBS 3
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-chno="36" tvg-id="pptv.iptv36.my.to" group-title="Thai" tvg-logo="https://iptv36.my.to/logo/pptv.png?rev=8",PPTV HD
