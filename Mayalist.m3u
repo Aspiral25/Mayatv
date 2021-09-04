@@ -80,7 +80,7 @@ https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="501" tvg-name="Astro Awani" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="Astro",Astro Awani -A
+#EXTINF:-1 tvg-id="501" tvg-name="Astro Awani" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="Astro",Astro Awani
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #backup-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-id="104" tvg-name="Astro Ria" tvg-logo="https://i.postimg.cc/L8kDdr1g/images-9.png" group-title="Astro",Astro Ria
@@ -88,9 +88,9 @@ http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #backup-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/1705
 http://198.16.106.62:8278/streams/d/Ria/playlist.m3u8
 #EXTINF:-1 tvg-id="132" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="Astro",Astro Warna
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+#http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 #http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/1706
-#http://iptv.tvmalaysia.cc:80/penang123/penang123/6740
+http://iptv.tvmalaysia.cc:80/penang123/penang123/6740
 #EXTINF:-1 tvg-id="106" tvg-country="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Astro",Astro Oasis
 #backup-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/1701
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
@@ -128,10 +128,10 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b885dddf8d0e990d24c4a3fae05c4194.webp" group-title="Dunia",NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 tvg-id=“515” tvg-logo="newsasia.png"tvg-logo="https://4.bp.blogspot.com/-MhOkWbEPYjA/VYtjQLh5_jI/AAAAAAAAHLQ/s5BsN8Yumj4/s1600/NEWS%2BASIA.jpg" group-title="Dunia", CNA
+#EXTINF:-1 tvg-id=“515” tvg-logo="newsasia.png"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CNA_new_logo.svg" group-title="Dunia", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fdc02682b28587aac705ec5616ab913a.webp" group-title="Dunia",RT
-https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
+https://r1---sn-uphxqvujvh-2xol.googlevideo.com/videoplayback
 #EXTINF:-1 tvg-id="513" tvg-name="AlJazeera" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/83d7b3d3df0b2dff23bf51ad0d028d6b.webp" group-title="Dunia",AlJazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="arirang.png" tvg-logo="http://0.soompi.io/wp-content/uploads/4/p/8c/389704/389704.png" group-title="Dunia",ARIRANG
