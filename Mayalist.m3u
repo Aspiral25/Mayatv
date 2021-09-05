@@ -170,6 +170,8 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://45.126.83.51/dr9445/h/h141/01.m3u8
 #EXTINF:-1 tvg-id="KIXHD" group-title="VIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png",KIX HD 
 https://nonton.site:8443/Ainamanja/RPLf79Gusm/8
+#EXTINF:-1  tvg-logo="https://drive.google.com/uc?export=view&id=109_MtH3Y5T8d_07P1VVEnD3sAkyX9_go" group-title="VIP",HITS CH
+http://210.210.155.35/dr9445/h/h37/01.m3u8
 #EXTINF:-1 tvg-id="blueantentertainment.id" tvg-logo="https://aqfad2811.s-ul.eu/E4BCKxyu" tvg-name="Blue Ant Entertainment" group-title="VIP",Rock Entertainment
 #http://iptv.tvmalaysia.cc:80/penang123/penang123/8860
 http://210.210.155.35/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/01.m3u8
@@ -192,8 +194,8 @@ http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-1 tvg-id="396" tvg-logo="https://user-images.githubusercontent.com/85995579/128629428-91d4dbdd-9b18-498c-a5d7-df251c90a1aa.png" group-title="VIP",KPlus HD
 http://playlist.urfan.web.id/session/8b6b2702-042f-11ec-8d82-b99bb82def67/uq2663/h/h08/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="VIP", Colors 4K (zain tv)
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/108240.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0yswGZW/sgem.jpg" group-title="VIP",SONY GEM
+http://210.210.155.35/uq2663/h/h19/02.m3u8
 
 
 
@@ -221,16 +223,18 @@ http://tv.zaintv.net/live/Davidemmanuel/D477376480/86621.ts
 http://topwin-tv.my.id/2/chunklist.m3u8?id=history&bandwidth=default&sync=0
 #https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #http://iptv.tvmalaysia.cc:80/penang123/penang123/6799
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="Dokumentari",Love Nature 4K
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="DMAX HD" tvg-logo="http://tvmalaysia.cc:80/images/433e2f828d5c3bc6eafe1a1c5caa1d84.jpg" group-title="Dokumentari",DMAX HD
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6778
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Dokumentari",NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-name="Travel Channel HD" tvg-logo="http://tvmalaysia.cc:80/images/83d09665000ad543908d67e15689dc6c.jpg" group-title="Dokumentari",Travel Channel HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6833
 #EXTINF:-1 tvg-id="CHN" group-title="Dokumentari" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/OC_Logo2017_Primary_2_%281%29.svg/revision/latest/scale-to-width-down/250?cb=20170428060035",Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="Dokumentari",Love Nature 4K
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/56yF6Zx/simin.jpg" group-title="Dokumentari",Bisnet Adventure.
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="DMAX HD" tvg-logo="http://tvmalaysia.cc:80/images/433e2f828d5c3bc6eafe1a1c5caa1d84.jpg" group-title="Dokumentari",DMAX HD
+http://iptv.tvmalaysia.cc:80/penang123/penang123/6778
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Dokumentari",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
 
@@ -270,6 +274,10 @@ https://dl.dropbox.com/s/epjbhhbgl8dmtdt/family.m3u8?dl=1
 https://www.dropbox.com/s/dllbdpdkssknyjp/HBOSIGX.m3u8?dl=1
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="Movie",CINEMA WORLD
 http://210.210.155.35/dr9445/h/h04/01.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/NsvtNb8/mycnema.jpg" group-title="Movie",MY CINEMA
+http://210.210.155.35/uq2663/h/h90/S1/mnf.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/PYPLz36/trill.png" group-title="Movie",THRILL
+http://210.210.155.35/session/453c7fb4-6a31-11e9-b1c1-bf03b175abaa/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-id="Zee Cafe HD" tvg-name="Zee Cafe HD" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" group-title="Movie",Zee Cafe HD
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
