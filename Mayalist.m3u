@@ -246,7 +246,8 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Movie", Sony Pix HD
 #http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #http://54.39.158.38:8080/9876543210/9876543210/7258
-http://watchindia.net:8880/live/33253/72963/2101.ts
+#http://watchindia.net:8880/live/33253/72963/2101.ts
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ea01782c6689f21f02fd5da12f2abaccf665cea2a8b27f47525d555cfcf4f6a89c54f39dfadd61248f84db4f0f33ce7ffb285c725ac82fb695731e8c178a80874ef978bf9954d2463ae85776d5a3016c96f961438f6665a521804afde21d9fd2187f&mac=00:1A:79:32:15:A7&ip=118.101.224.193&magic_server=MAIN_MP
 #EXTINF:-1 tvg-id="" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/flix-280-200.png" group-title="Movie",&FLIX HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2020/06/25/868730-privehd.jpg" group-title="Movie",&Prive HD
@@ -257,7 +258,8 @@ http://iptv.tvmalaysia.cc:80/penang123/penang123/6848
 #http://iptv.tvmalaysia.cc:80/penang123/penang123/6844
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 tvg-id="tvn.my" tvg-name="tvN HD" tvg-logo="http://tvmalaysia.cc:80/images/7f1eaa630170244ea3da72e50b0251a6.png" group-title="Movie",tvN HD (indo sub)
-http://210.210.155.35:80/dr9445/h/h20/01.m3u8
+#http://210.210.155.35:80/dr9445/h/h20/01.m3u8
+http://dituduhmaling.xyz/US33T4/MPD/chunklist.m3u8?id=tvnmovies&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="tvnmovies.my" tvg-name="tvN Movies" tvg-logo="http://tvmalaysia.cc:80/images/9d84ccde47792f4eae3504e6a68877c7.png" group-title="Movie",tvN Movies (indo sub)
 #https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #http://iptv.tvmalaysia.cc:80/penang123/penang123/6845
@@ -279,7 +281,8 @@ https://www.dropbox.com/s/dllbdpdkssknyjp/HBOSIGX.m3u8?dl=1
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/xMjy8Hz/foxcrime.png" group-title="Movie",Fox Crime HD
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 #EXTINF:-1 tvg-ID="413" tvg-logo="https://i.ibb.co/d46ZD34/fox-movies.png" group-title="Movie",FOX Movies HD
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+#http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="414" tvg-logo="https://i.ibb.co/ccF4974/fox-family.png" group-title="Movie",Fox Family Movies HD
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 #EXTINF:-1 tvg-ID="415" tvg-logo="https://i.ibb.co/stgkJx0/fox-action.png" group-title="Movie",FOX Action Movies HD
@@ -288,13 +291,22 @@ http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 #http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="Movie", Star Movies
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+http://watchindia.net:8880/live/60275/20486/2080.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="Movie",CINEMA WORLD
 http://210.210.155.35/dr9445/h/h04/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NsvtNb8/mycnema.jpg" group-title="Movie",MY CINEMA
 http://210.210.155.35/uq2663/h/h90/S1/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" group-title="Movie", Movies Now HD
 http://watchindia.net:8880/live/33253/72963/2102.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X4BtvJq/movie-sphere.png" group-title="Movie",Movie Sphere
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSNKnJP/hallmar-more.png" group-title="Movie",US: Hallmark Movies & More
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="EPIX.HDTV.(East).(EPIXHD).us" tvg-name="Epix East US" tvg-logo="https://i.ibb.co/fxSWkNC/epix.png" group-title="Movie",US: Epix East HD
+http://bestsave.ltd:8011/1020304050/5040302010/81102
+#EXTINF:-1 tvg-id="EPIX2.HDTV.(East).(EPIXHD).us" tvg-name="EPIX2 HDTV (East) (EPIXHD)" tvg-logo="https://i.ibb.co/wrLcbv6/epix2.png" group-title="Movie",US: Epix 2 East HD
+http://bestsave.ltd:8011/1020304050/5040302010/81101
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PYPLz36/trill.png" group-title="Movie",THRILL
 http://210.210.155.35/session/453c7fb4-6a31-11e9-b1c1-bf03b175abaa/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-id="Zee Cafe HD" tvg-name="Zee Cafe HD" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" group-title="Movie",Zee Cafe HD
