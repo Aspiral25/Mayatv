@@ -338,7 +338,8 @@ http://iptv.tvmalaysia.cc:80/penang123/penang123/7236
 http://iptv.tvmalaysia.cc:80/penang123/penang123/7237
 #EXTINF:-1 tvg-id="EuroSport" group-title="Sukan" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/38_144.png",Eurosport HD
 #http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6784
+#http://iptv.tvmalaysia.cc:80/penang123/penang123/6784
+http://134.19.182.131:8080/vdg15.m3u8?h=9li1s9238t24a37sw0094i6s2e11p543p
 #EXTINF:-1 tvg-id="HorizonSports.us" tvg-name="Horizon Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sjOIOkK.png" group-title="Sukan",Horizon Sports -A
 #https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
