@@ -395,11 +395,31 @@ http://93.157.62.180/Supersport3/index.m3u8
 http://93.157.62.180/Supersport4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gvP8YWx/Super-Sport.png" group-title="Sukan", Super Sports 5
 http://93.157.62.180/Supersport5/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="UK: SKY SPORTS F1" tvg-logo="" group-title="Sukan",UK: SKY SPORTS F1
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19293
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="UK: SKY SPORTS FOOTBALL" tvg-logo="" group-title="Sukan",UK: SKY SPORTS FOOTBALL
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19294
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-name="UK: SKY SPORTS GOLF" tvg-logo="" group-title="Sukan",UK: SKY SPORTS GOLF
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19295
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: SKY SPORTS MAIN EVENT" tvg-logo="" group-title="Sukan",UK: SKY SPORTS MAIN EVENT
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19296
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="UK: SKY SPORTS MIX" tvg-logo="" group-title="Sukan",UK: SKY SPORTS MIX
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19297
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS NFL" tvg-logo="" group-title="Sukan",UK: SKY SPORTS NFL
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19298
+#EXTINF:-1 tvg-id="SkySp.Racing.uk" tvg-name="UK: SKY SPORTS RACING" tvg-logo="" group-title="Sukan",UK: SKY SPORTS RACING
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19299
+#EXTINF:-1 tvg-id="" tvg-name="UK: UFC Fight Pass" tvg-logo="" group-title="Sukan",UK: UFC Fight Pass
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19300
 #EXTINF:-1 tvg-id="EuroSport" group-title="Sukan" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/38_144.png",Eurosport HD
 #http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
 #http://iptv.tvmalaysia.cc:80/penang123/penang123/6784
 #https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
 http://134.19.182.131:8080/vdg15.m3u8?h=9li1s9238t24a37sw0094i6s2e11p543p
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="UK: Eurosport 1" tvg-logo="" group-title="Sukan",UK: Eurosport 1
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19283
+#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="UK: Eurosport 2" tvg-logo="" group-title="Sukan",UK: Eurosport 2
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19284
 #EXTINF:-1 tvg-id="HorizonSports.us" tvg-name="Horizon Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sjOIOkK.png" group-title="Sukan",Horizon Sports -A
 #https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
@@ -433,6 +453,13 @@ http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19277
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19278
 #EXTINF:-1 tvg-id="BT.Sport.3.HD.uk" tvg-name="UK: BT SPORT 3" tvg-logo="" group-title="Sukan",UK: BT SPORT 3
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19279
+#EXTINF:-1 tvg-id="BTSpt//ESPNHD.uk" tvg-name="UK: BT SPORT ESPN" tvg-logo="" group-title="Sukan",UK: BT SPORT ESPN
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19280
+#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="UK: LFC TV" tvg-logo="" group-title="UK Sports Pack",UK: LFC TV
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19287
+#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-name="UK: MUTV" tvg-logo="" group-title="UK Sports Pack",UK: MUTV
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19288
+
 
 
 
