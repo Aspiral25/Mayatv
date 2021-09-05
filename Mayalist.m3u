@@ -134,12 +134,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://r1---sn-uphxqvujvh-2xol.googlevideo.com/videoplayback?expire=1630793626&ei=OpszYaVM0bzUBsqUhagP&ip=2001%3Af40%3A905%3A5e6f%3Ad9c%3Ae6b3%3Ae310%3Ac6cf&id=V0I5eglJMRI.1&itag=140&source=yt_live_broadcast&requiressl=yes&mh=PV&mm=44%2C29&mn=sn-uphxqvujvh-2xol%2Csn-30a7rn76&ms=lva%2Crdu&mv=m&mvi=1&pl=50&ctier=A&initcwndbps=1490000&hightc=yes&vprv=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&ns=oryLq_eoI8wCg28LrxYsXqcG&gir=yes&mt=1630771711&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=iM-aiKvpP8GaFw&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cctier%2Chightc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAMAqkM8-dzxAJaISEmIFjjR2AJlKGB9w9nbmBlhgvGRtAiEA34YF6TXWAiUhHjFPhH9azvLMTimRI_6oNUyo119kPy0%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAN9RlVm4Fc_wXoanjhvLJ3Omd-1eWmgbU0tCQXgrbXwTAiB_XJgX7Z0D0ffUlCz7UNzMstFu_RGFEh3dlcgpXwUWyQ%3D%3D&alr=yes&cpn=eGv4CgM7uiAgYxNM&cver=1.20210901.1.0&sq=883081&rn=8&rbuf=8294
 #EXTINF:-1 tvg-id="513" tvg-name="AlJazeera" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/83d7b3d3df0b2dff23bf51ad0d028d6b.webp" group-title="Dunia",AlJazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="arirang.png" tvg-logo="http://0.soompi.io/wp-content/uploads/4/p/8c/389704/389704.png" group-title="Dunia",ARIRANG
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Dunia" tvg-logo="http://arirang.com/images/index/arirang.png",Arirang TV
+#http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 tvg-id="392" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png" group-title="Dunia",KBS WORLD
-http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1 tvg-id="517" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK4kTvbHBoPmYS_VLZJhwG0pm1Ov63pFpghPZTcNzPrAaMtteK&s" group-title="Dunia",BLOOMBERG
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.crispincorp.com/wp-content/uploads/2018/02/CBSN-logo.png" group-title="Dunia",CBSN
@@ -161,57 +158,59 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=
 
 
 
-#EXTINF:-1 tvg-id="701" tvg-name="AXN" tvg-logo="https://i.postimg.cc/76XKMVKh/Cb-Sp-RQ2-WEAEEr-Tn-jpg-large.jpg" group-title="Premium VIP",AXN
+#EXTINF:-1 tvg-id="701" tvg-name="AXN" tvg-logo="https://i.postimg.cc/76XKMVKh/Cb-Sp-RQ2-WEAEEr-Tn-jpg-large.jpg" group-title="VIP",AXN (indo sub)
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/63.m3u8
 #http://iptv.tvmalaysia.cc:80/penang123/penang123/6743
 http://45.126.83.51/dr9445/h/h141/01.m3u8
-#EXTINF:-1 tvg-id="KIXHD" group-title="Premium VIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png",KIX HD 
+#EXTINF:-1 tvg-id="KIXHD" group-title="VIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png",KIX HD 
 https://nonton.site:8443/Ainamanja/RPLf79Gusm/8
-#EXTINF:-1 tvg-id="394" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" group-title="Premium VIP",Oh!K HD 
+#EXTINF:-1 tvg-id="392" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png" group-title="VIP",KBS WORLD
+http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+#EXTINF:-1 tvg-id="394" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" group-title="VIP",Oh!K HD 
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-#EXTINF:-1 tvg-id="396" tvg-logo="https://user-images.githubusercontent.com/85995579/128629428-91d4dbdd-9b18-498c-a5d7-df251c90a1aa.png" group-title="Premium VIP",KPlus HD
+#EXTINF:-1 tvg-id="396" tvg-logo="https://user-images.githubusercontent.com/85995579/128629428-91d4dbdd-9b18-498c-a5d7-df251c90a1aa.png" group-title="VIP",KPlus HD
 http://playlist.urfan.web.id/session/8b6b2702-042f-11ec-8d82-b99bb82def67/uq2663/h/h08/01.m3u8
-#EXTINF:-1 tvg-id="blueantentertainment.id" tvg-logo="https://aqfad2811.s-ul.eu/E4BCKxyu" tvg-name="Blue Ant Entertainment" group-title="Premium VIP",Rock Entertainment
+#EXTINF:-1 tvg-id="blueantentertainment.id" tvg-logo="https://aqfad2811.s-ul.eu/E4BCKxyu" tvg-name="Blue Ant Entertainment" group-title="VIP",Rock Entertainment
 #http://iptv.tvmalaysia.cc:80/penang123/penang123/8860
 http://210.210.155.35/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/01.m3u8
-#EXTINF:-1 tvg-id="blueantextreme.id" tvg-name="Blue Ant Extreme" tvg-logo="https://aqfad2811.s-ul.eu/1DUjBNC8" group-title="Premium VIP",Rock Extreme
+#EXTINF:-1 tvg-id="blueantextreme.id" tvg-name="Blue Ant Extreme" tvg-logo="https://aqfad2811.s-ul.eu/1DUjBNC8" group-title="VIP",Rock Extreme
 #http://iptv.tvmalaysia.cc:80/penang123/penang123/8861
 http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/01.m3u8
-#EXTINF:-1 tvg-id="550" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png" group-title="Premium VIP",National Geographic Wild Asia
+#EXTINF:-1 tvg-id="550" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png" group-title="VIP",National Geographic Wild Asia
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 tvg-id="natgeopeople.my" tvg-name="NatGeo People" tvg-logo="http://tvmalaysia.cc:80/images/bce173b41e68a5f93990720a40c946e9.jpg" group-title="Premium VIP",NatGeo People
+#EXTINF:-1 tvg-id="natgeopeople.my" tvg-name="NatGeo People" tvg-logo="http://tvmalaysia.cc:80/images/bce173b41e68a5f93990720a40c946e9.jpg" group-title="VIP",NatGeo People
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6811
-#EXTINF:-1 tvg-country="" tvg-logo="https://i.pinimg.com/originals/50/47/55/5047550d7fe1c855dec048aa83be12ae.png" group-title="Premium VIP",ANIMAL PLANET
+#EXTINF:-1 tvg-country="" tvg-logo="https://i.pinimg.com/originals/50/47/55/5047550d7fe1c855dec048aa83be12ae.png" group-title="VIP",ANIMAL PLANET
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 tvg-id="552" tvg-name="DISCOVERY Channel" tvg-logo="https://i.postimg.cc/gJ8qCyH4/Discovery-Stacked.png" group-title="Premium VIP",DISCOVERY Channel
+#EXTINF:-1 tvg-id="552" tvg-name="DISCOVERY Channel" tvg-logo="https://i.postimg.cc/gJ8qCyH4/Discovery-Stacked.png" group-title="VIP",DISCOVERY Channel
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/98.m3u8
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6773
-#EXTINF:-1 tvg-id="553" tvg-name="DISCOVERY Asia" tvg-logo="https://i.postimg.cc/gJ8qCyH4/Discovery-Stacked.png" group-title="Premium VIP",DISCOVERY Asia
+#EXTINF:-1 tvg-id="553" tvg-name="DISCOVERY Asia" tvg-logo="https://i.postimg.cc/gJ8qCyH4/Discovery-Stacked.png" group-title="VIP",DISCOVERY Asia
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/82.m3u8
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6772
-#EXTINF:-1 tvg-id="555" tvg-name="HISTORY Channel" tvg-logo="https://variety.com/wp-content/uploads/2018/02/history-channel-logo.jpg?w=1000" group-title="Premium VIP",HISTORY Channel
+#EXTINF:-1 tvg-id="555" tvg-name="HISTORY Channel" tvg-logo="https://variety.com/wp-content/uploads/2018/02/history-channel-logo.jpg?w=1000" group-title="VIP",HISTORY Channel
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/94.m3u8
 #https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6799
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="Premium VIP",Love Nature 4K
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="VIP",Love Nature 4K
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="715" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Premium VIP",HGTV
+#EXTINF:-1 tvg-id="715" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="VIP",HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="DMAX HD" tvg-logo="http://tvmalaysia.cc:80/images/433e2f828d5c3bc6eafe1a1c5caa1d84.jpg" group-title="Premium VIP",DMAX HD
+#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="DMAX HD" tvg-logo="http://tvmalaysia.cc:80/images/433e2f828d5c3bc6eafe1a1c5caa1d84.jpg" group-title="VIP",DMAX HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6778
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Premium VIP",NASA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="VIP",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="707" tvg-name="TLC" tvg-logo="https://i.postimg.cc/5tpf0DbG/7933.jpg" group-title="Premium VIP",TLC
+#EXTINF:-1 tvg-id="707" tvg-name="TLC" tvg-logo="https://i.postimg.cc/5tpf0DbG/7933.jpg" group-title="VIP",TLC
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/84.m3u8
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6832
-#EXTINF:-1 tvg-name="Travel Channel HD" tvg-logo="http://tvmalaysia.cc:80/images/83d09665000ad543908d67e15689dc6c.jpg" group-title="Premium VIP",Travel Channel HD
+#EXTINF:-1 tvg-name="Travel Channel HD" tvg-logo="http://tvmalaysia.cc:80/images/83d09665000ad543908d67e15689dc6c.jpg" group-title="VIP",Travel Channel HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6833
-#EXTINF:-1 tvg-id="CHN" group-title="Premium VIP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/OC_Logo2017_Primary_2_%281%29.svg/revision/latest/scale-to-width-down/250?cb=20170428060035",Outdoor Channel
+#EXTINF:-1 tvg-id="CHN" group-title="VIP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/OC_Logo2017_Primary_2_%281%29.svg/revision/latest/scale-to-width-down/250?cb=20170428060035",Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="708" tvg-name="Asia Food Network" tvg-logo="https://i.postimg.cc/3NtVsh83/1200px-Asian-Food-Network-svg.png" group-title="Premium VIP",Asia Food Network
+#EXTINF:-1 tvg-id="708" tvg-name="Asia Food Network" tvg-logo="https://i.postimg.cc/3NtVsh83/1200px-Asian-Food-Network-svg.png" group-title="VIP",Asia Food Network
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/85.m3u8
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6693
-#EXTINF:-1 tvg-id="MY: ABC AUSTRALIA" tvg-name="ABC Australia" tvg-logo="http://tvmalaysia.cc:80/images/cd8015182af2a1350c156be7f4913720.jpg" group-title="Premium VIP",ABC Australia
+#EXTINF:-1 tvg-id="MY: ABC AUSTRALIA" tvg-name="ABC Australia" tvg-logo="http://tvmalaysia.cc:80/images/cd8015182af2a1350c156be7f4913720.jpg" group-title="VIP",ABC Australia
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6692
 
 
@@ -251,6 +250,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 https://dl.dropbox.com/s/epjbhhbgl8dmtdt/family.m3u8?dl=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" tvg-name="HBO Signature" group-title="Movie"HBO Signature
 https://www.dropbox.com/s/dllbdpdkssknyjp/HBOSIGX.m3u8?dl=1
+#EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="Movie",CINEMA WORLD
+http://210.210.155.35/dr9445/h/h04/01.m3u8
 #EXTINF:-1 tvg-id="Zee Cafe HD" tvg-name="Zee Cafe HD" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" group-title="Movie",Zee Cafe HD
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
