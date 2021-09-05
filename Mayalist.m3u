@@ -306,7 +306,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png" group-title="Sukan",rtm SUKAN
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="801" tvg-name="ASTRO Arena" tvg-logo="https://i.postimg.cc/tgHPJhrw/Astro-Arena.jpg" group-title="Sukan",ASTRO Arena
-http://194.233.68.128:5080/LiveApp/streams/590383677711916427838454.m3u8
+#http://194.233.68.128:5080/LiveApp/streams/590383677711916427838454.m3u8
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 group-title="Sukan" tvg-id="800" tvg-chno="800" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/800.png",eGG Network
 #https://linear01-playback.sooka.my/CH2/masterCH2.mpd
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
