@@ -385,16 +385,6 @@ https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:-1 group-title="Sukan" tvg-logo="https://i.ibb.co/H75Y4Z9/sony-six.png",SONY SIX HD
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
-#EXTINF:-1 tvg-name="UK: Sky Sports News" tvg-logo="http://tvmalaysia.cc:80/images/5e99aed2ec2d9b812674d012bb467ad8.jpg" group-title="Sukan",UK: Sky Sports News
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6614
-#EXTINF:-1 tvg-name="UK: Sky Sports Arena" tvg-logo="http://tvmalaysia.cc:80/images/62a88170b4d23cef2f5dcab8c83c882a.jpg" group-title="Sukan",UK: Sky Sports Arena
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6615
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://tvmalaysia.cc:80/images/2f4e8a56c74335dad8c11c742243ea8e.jpg" group-title="Sukan",UK: Sky Sports F1
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6617
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf" tvg-logo="http://tvmalaysia.cc:80/images/48edb52948eec885dc7fcb3aa0115781.png" group-title="Sukan",UK: Sky Sports Golf
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6618
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football" tvg-logo="http://tvmalaysia.cc:80/images/5018ec7514f120bfba08d989ccbc9b65.jpg" group-title="Sukan",UK: Sky Sports Football
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6620
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gvP8YWx/Super-Sport.png" group-title="Sukan", Super Sports 1
 http://93.157.62.180/Supersport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gvP8YWx/Super-Sport.png" group-title="Sukan", Super Sports 2
@@ -405,10 +395,6 @@ http://93.157.62.180/Supersport3/index.m3u8
 http://93.157.62.180/Supersport4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gvP8YWx/Super-Sport.png" group-title="Sukan", Super Sports 5
 http://93.157.62.180/Supersport5/index.m3u8
-#EXTINF:-1 tvg-name="MUTV" tvg-logo="http://tvmalaysia.cc:80/images/00df33989b0bbd6c33616c9c6e22d63b.png" group-title="Sukan",MUTV
-http://iptv.tvmalaysia.cc:80/penang123/penang123/7236
-#EXTINF:-1 tvg-name="LFC TV" tvg-logo="http://tvmalaysia.cc:80/images/8e5e2fa700bc778be1119e3eab7ee709.png" group-title="Sukan",LFC TV
-http://iptv.tvmalaysia.cc:80/penang123/penang123/7237
 #EXTINF:-1 tvg-id="EuroSport" group-title="Sukan" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/38_144.png",Eurosport HD
 #http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
 #http://iptv.tvmalaysia.cc:80/penang123/penang123/6784
@@ -427,10 +413,6 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 https://iptvid.cgflix.xyz/Usee/sport/usees1.m3u8
 #EXTINF:-1 group-title="Sukan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF0sUAMJY6dHq8wPLQheyjJv_Iu1OoBNQbag&usqp=CAU",Usee Sport 2
 https://iptvid.cgflix.xyz/Usee/sport/usees2.m3u8
-#EXTINF:-1 tvg-ID="818" tvg-logo="https://i.ibb.co/tqZ4j0P/bein-asia-1.png" group-title="Sukan",beIN SPORTS HD
-http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
-#EXTINF:-1 tvg-ID="819" tvg-logo="https://i.ibb.co/RcNKffr/bein-asia-2.png" group-title="Sukan",beIN SPORTS 2 HD
-http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
 #EXTINF:-1 group-title="Sukan" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-1-1166.png",beIN Sport 1 ID
 https://iptvid.cgflix.xyz/Usee/sport/be1.m3u8
 #EXTINF:-1 group-title="Sukan" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-2-1167.png",beIN Sport 2 ID
