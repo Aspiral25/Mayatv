@@ -167,6 +167,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="701" tvg-name="AXN" tvg-logo="https://i.postimg.cc/76XKMVKh/Cb-Sp-RQ2-WEAEEr-Tn-jpg-large.jpg" group-title="VIP",AXN (indo sub)
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/63.m3u8
 #http://iptv.tvmalaysia.cc:80/penang123/penang123/6743
+#http://93.190.139.35:8278/streams/d/Axn/playlist.m3u8
 http://45.126.83.51/dr9445/h/h141/01.m3u8
 #EXTINF:-1 tvg-id="KIXHD" group-title="VIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png",KIX HD 
 https://nonton.site:8443/Ainamanja/RPLf79Gusm/8
@@ -253,17 +254,20 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2020/06/25/868730-privehd.jpg" group-title="Movie",&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="warnertv.my" tvg-name="Warner TV" tvg-logo="http://tvmalaysia.cc:80/images/fe971dedf93c15bae582eea20afa0a7f.png" group-title="Movie",Warner TV
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6848
+#http://iptv.tvmalaysia.cc:80/penang123/penang123/6848
+http://iptvid.cgflix.xyz/Usee/movies/wrnr.m3u8
 #EXTINF:-1 tvg-id="tvn.my" tvg-name="tvN HD" tvg-logo="http://tvmalaysia.cc:80/images/7f1eaa630170244ea3da72e50b0251a6.png" group-title="Movie",tvN HD
 #http://iptv.tvmalaysia.cc:80/penang123/penang123/6844
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 tvg-id="tvn.my" tvg-name="tvN HD" tvg-logo="http://tvmalaysia.cc:80/images/7f1eaa630170244ea3da72e50b0251a6.png" group-title="Movie",tvN HD (indo sub)
 #http://210.210.155.35:80/dr9445/h/h20/01.m3u8
+#https://iptvid.cgflix.xyz/vidio/tvn.m3u8
 http://dituduhmaling.xyz/US33T4/MPD/chunklist.m3u8?id=tvnmovies&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="tvnmovies.my" tvg-name="tvN Movies" tvg-logo="http://tvmalaysia.cc:80/images/9d84ccde47792f4eae3504e6a68877c7.png" group-title="Movie",tvN Movies (indo sub)
 #https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #http://iptv.tvmalaysia.cc:80/penang123/penang123/6845
-http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
+#http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
+http://93.190.139.35:8278/streams/d/Tvnmovie/playlist.m3u8
 #EXTINF:-1 tvg-id="412" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png" tvg-name="CINEMAX" group-title="Movie",CINEMAX
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 tvg-id="411" tvg-country="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="Movie",HBO Malaysia
@@ -280,6 +284,8 @@ https://dl.dropbox.com/s/epjbhhbgl8dmtdt/family.m3u8?dl=1
 https://www.dropbox.com/s/dllbdpdkssknyjp/HBOSIGX.m3u8?dl=1
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/xMjy8Hz/foxcrime.png" group-title="Movie",Fox Crime HD
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/hX7qQFf.png" tvg-name="Fox Life HD"  group-title="Movie",Fox Life HD
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="413" tvg-logo="https://i.ibb.co/d46ZD34/fox-movies.png" group-title="Movie",FOX Movies HD
 #http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
@@ -287,12 +293,26 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 #EXTINF:-1 tvg-ID="415" tvg-logo="https://i.ibb.co/stgkJx0/fox-action.png" group-title="Movie",FOX Action Movies HD
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1 tvg-id="Sky.Action.uk" tvg-logo="https://i.ibb.co/Z620f75/sky-cinema-action.png" group-title="Movie", UK: Sky Cinema Action HD
+http://31.220.41.88:8081/live/maction.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://i.ibb.co/mDh37Y7/sky-cinema-comedy.png" group-title="Movie", UK: Sky Cinema Comedy HD 
+http://31.220.41.88:8081/live/mcomedy.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Sky.Thriller.uk" tvg-logo="https://i.ibb.co/Bzytcsx/sky-cinema-thriller.png" group-title="Movie", UK: Sky Cinema Crime & Thriller HD
+http://31.220.41.88:8081/live/mcrime.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Sky.Disney.HD.uk" tvg-logo="https://i.ibb.co/TwJ8K3W/sky-cinema-disney.png" group-title="Movie", UK: Sky Cinema Disney HD
+http://31.220.41.88:8081/live/mdisney.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-logo="https://i.ibb.co/TPQ8Nfv/sky-cinema-family.png" group-title="Movie", UK: Sky Cinema Family FHD
+http://31.220.41.88:8081/live/mfamily.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Sky.Premiere.uk" tvg-logo="https://i.ibb.co/yq0NgxD/sky-cinema-premiere.png" group-title="Movie", UK: Sky Cinema Premiere HD
+http://31.220.41.88:8081/live/mpremiere.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="Movie", Star Movies Select HD
 #http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="Movie", Star Movies
 #http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 http://watchindia.net:8880/live/60275/20486/2080.ts
+#EXTINF:-1 tvg-id="Lifetime.Movies.HDTV.(East).(LIFEMOV).us" tvg-logo="https://i.ibb.co/qRjT04L/lifetime.png" group-title="Movie", US: Lifetime Movie Network FHD
+http://31.220.41.88:8081/live/us-lmn.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/VTtxzXm/ciwo.jpg" group-title="Movie",CINEMA WORLD
 http://210.210.155.35/dr9445/h/h04/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NsvtNb8/mycnema.jpg" group-title="Movie",MY CINEMA
@@ -404,8 +424,9 @@ http://134.19.182.131:8080/vdg15.m3u8?h=9li1s9238t24a37sw0094i6s2e11p543p
 #EXTINF:-1 tvg-id="HorizonSports.us" tvg-name="Horizon Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sjOIOkK.png" group-title="Sukan",Horizon Sports -A
 #https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="RedBullTV" tvg-name="RedBull Tv" tvg-country="" tvg-language="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/301f06c166156f3e5234ee0b6231b9a0.webp" group-title="Sukan",RedBull Tv
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-id="RedBullTV" tvg-name="RedBull Tv" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/euauPCp.png" group-title="Sukan",RedBull Tv
+#https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-country="FR" tvg-logo="https://pbs.twimg.com/profile_images/1020624523354345472/WZ1ZVRGa.jpg" group-title="Sukan",ONE GOLF
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="USAK3508729A" tvg-chno="1182" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/USAK3508729A_20210525T051635.png" group-title="Sukan",Outdoor America
