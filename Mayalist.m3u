@@ -364,12 +364,19 @@ http://iptv.tvmalaysia.cc:80/penang188/penang188/6711
 #backup-http://meu02.cularu.com:8880/yw12m2n466/UYWyCspA67/59217
 http://iptv.tvmalaysia.cc:80/penang188/penang188/6712
 #EXTINF:-1 tvg-id="815" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/12/fs1-1024x576.png" group-title="Sukan",FoxSport 1
-http://194.233.68.128:5080/LiveApp/streams/520502764452315618812610.m3u8
+#http://194.233.68.128:5080/LiveApp/streams/520502764452315618812610.m3u8
+#https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
+http://50.7.161.82:8278/streams/d/foxsports_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="816" tvg-name="FOX Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="Sukan",FOX Sports 2
 #http://194.233.68.128:5080/LiveApp/streams/468222652627503230280505.m3u8
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6791
+#http://iptv.tvmalaysia.cc:80/penang123/penang123/6791
+#http://50.7.161.82:8278/streams/d/foxsports2_pye/playlist.m3u8
+#https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
+https://livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="foxsports3.my" tvg-name="FOX Sports 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/6295d50d665d4e35bd56f0cf6a01b3da.png" group-title="Sukan",FOX Sports 3 HD
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6792
+#http://iptv.tvmalaysia.cc:80/penang123/penang123/6792
+#https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
+https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-ID="818" tvg-logo="https://i.ibb.co/tqZ4j0P/bein-asia-1.png" group-title="Sukan",beIN SPORTS HD
 http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
 #EXTINF:-1 tvg-ID="819" tvg-logo="https://i.ibb.co/RcNKffr/bein-asia-2.png" group-title="Sukan",beIN SPORTS 2 HD
@@ -378,18 +385,14 @@ http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19277
 #EXTINF:0 tvg-country="GB" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-2-100.png" group-title="Sukan",BT SPORT 2
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19278
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1" tvg-logo="http://tvmalaysia.cc:80/images/7379a7cb006d37f758205bf8dc829abd.jpg" group-title="Sukan",BT Sport 1
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6610
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2" tvg-logo="http://tvmalaysia.cc:80/images/dad4a4674cfe73b1c89fc4b407b42a39.jpg" group-title="Sukan",BT Sport 2
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6611
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sport 3" tvg-logo="http://tvmalaysia.cc:80/images/68bf1684f7f44c02fc3d3a3be13b510f.jpg" group-title="Sukan",BT Sport 3
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6612
-#EXTINF:-1 tvg-name="BT Sport ESPN" tvg-logo="http://tvmalaysia.cc:80/images/38d170f4abf9bf163ba3ac527b37ae72.jpg" group-title="Sukan",BT Sport ESPN
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6613
-#EXTINF:-1 tvg-name="UK: Premier Sports 1" tvg-logo="https://i.postimg.cc/SN2mJK5v/a95.png" group-title="Sukan",UK: Premier Sports 1
-http://iptv.tvmalaysia.cc:80/penang123/penang123/7112
-#EXTINF:-1 tvg-name="UK: Premier Sports 2" tvg-logo="https://i.postimg.cc/J7yhBKHx/a1442.png" group-title="Sukan",UK: Premier Sports 2
-http://iptv.tvmalaysia.cc:80/penang123/penang123/7113
+#EXTINF:-1 group-title="Sukan" tvg-logo="https://i.ibb.co/NjKCwgs/ten-1.png",TEN 1 HD
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+#EXTINF:-1 group-title="Sukan" tvg-logo="https://i.ibb.co/WGm7KQK/ten-2.png",TEN 2 HD
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+#EXTINF:-1 group-title="Sukan" tvg-logo="https://i.ibb.co/27bJzvL/ten-3.png",TEN 3 HD
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+#EXTINF:-1 group-title="Sukan" tvg-logo="https://i.ibb.co/H75Y4Z9/sony-six.png",SONY SIX HD
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 #EXTINF:-1 tvg-name="UK: Sky Sports News" tvg-logo="http://tvmalaysia.cc:80/images/5e99aed2ec2d9b812674d012bb467ad8.jpg" group-title="Sukan",UK: Sky Sports News
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6614
 #EXTINF:-1 tvg-name="UK: Sky Sports Arena" tvg-logo="http://tvmalaysia.cc:80/images/62a88170b4d23cef2f5dcab8c83c882a.jpg" group-title="Sukan",UK: Sky Sports Arena
@@ -407,6 +410,16 @@ http://stream2.grandma.fit/fs2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="Sukan",ESPN 2
 #http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/3137
 http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gvP8YWx/Super-Sport.png" group-title="Sukan", Super Sports 1
+http://93.157.62.180/Supersport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gvP8YWx/Super-Sport.png" group-title="Sukan", Super Sports 2
+http://93.157.62.180/Supersport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gvP8YWx/Super-Sport.png" group-title="Sukan", Super Sports 3
+http://93.157.62.180/Supersport3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gvP8YWx/Super-Sport.png" group-title="Sukan", Super Sports 4
+http://93.157.62.180/Supersport4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gvP8YWx/Super-Sport.png" group-title="Sukan", Super Sports 5
+http://93.157.62.180/Supersport5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Sukan",Setanta 2
 http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1 tvg-id="BeINSPORTSMAX" group-title="Sukan" tvg-logo="https://i.postimg.cc/QxTnfTBd/bein-sports-max.png",beIN Sports MAX HD
@@ -420,6 +433,7 @@ http://iptv.tvmalaysia.cc:80/penang123/penang123/7237
 #EXTINF:-1 tvg-id="EuroSport" group-title="Sukan" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/38_144.png",Eurosport HD
 #http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
 #http://iptv.tvmalaysia.cc:80/penang123/penang123/6784
+#https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
 http://134.19.182.131:8080/vdg15.m3u8?h=9li1s9238t24a37sw0094i6s2e11p543p
 #EXTINF:-1 tvg-id="HorizonSports.us" tvg-name="Horizon Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sjOIOkK.png" group-title="Sukan",Horizon Sports -A
 #https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
@@ -429,10 +443,6 @@ https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-country="FR" tvg-logo="https://pbs.twimg.com/profile_images/1020624523354345472/WZ1ZVRGa.jpg" group-title="Sukan",ONE GOLF
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="USAK3508729A" tvg-chno="1182" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/USAK3508729A_20210525T051635.png" group-title="Sukan",Outdoor America
-https://abe7c843f2064704adfd0920c95b127b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ObsessionMedia/playlist.m3u8
-#EXTINF:-1 tvg-id="USAK3508718A" tvg-chno="1184" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/55/USAK3508718A_20210525T051638.png" group-title="Sukan",Waypoint TV
-https://e7666845351445288d09adb21bf2765b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_WaypointTV/playlist.m3u8
 
 
 
