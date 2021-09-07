@@ -176,8 +176,6 @@ http://210.210.155.35/session/e9b257c8-6a2f-11e9-a76f-b3759a40e2c1/dr9445/h/h16/
 http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-id="715" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="VIP",HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4wbZUfh.png" group-title="Dunia",CGTN DOCUMENTARY
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="707" tvg-name="TLC" tvg-logo="https://i.postimg.cc/5tpf0DbG/7933.jpg" group-title="VIP",TLC
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/84.m3u8
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6832
@@ -203,26 +201,28 @@ http://54.39.158.38:8080/9876543210/9876543210/15448
 #EXTINF:-1 tvg-id="550" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png" group-title="Dokumentari",National Geographic Wild Asia
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-id="natgeopeople.my" tvg-name="NatGeo People" tvg-logo="http://tvmalaysia.cc:80/images/bce173b41e68a5f93990720a40c946e9.jpg" group-title="Dokumentari",NatGeo People
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6811
+#http://iptv.tvmalaysia.cc:80/penang123/penang123/6811
 #EXTINF:-1 tvg-country="" tvg-logo="https://i.pinimg.com/originals/50/47/55/5047550d7fe1c855dec048aa83be12ae.png" group-title="Dokumentari",ANIMAL PLANET
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-id="552" tvg-name="DISCOVERY Channel" tvg-logo="https://i.postimg.cc/gJ8qCyH4/Discovery-Stacked.png" group-title="Dokumentari",DISCOVERY Channel
-#http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/98.m3u8
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6773
+http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/98.m3u8
+#http://iptv.tvmalaysia.cc:80/penang123/penang123/6773
 #EXTINF:-1 tvg-id="553" tvg-name="DISCOVERY Asia" tvg-logo="https://i.postimg.cc/gJ8qCyH4/Discovery-Stacked.png" group-title="Dokumentari",DISCOVERY Asia
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/82.m3u8
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6772
+#http://iptv.tvmalaysia.cc:80/penang123/penang123/6772
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Dokumentari", Discovery Science
-http://bd.digiiptv.net:25461/moznu43/PA2443/2455
+#http://bd.digiiptv.net:25461/moznu43/PA2443/2455
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="Dokumentari", Discovery Turbo
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/86621.ts
+#http://tv.zaintv.net/live/Davidemmanuel/D477376480/86621.ts
 #EXTINF:-1 tvg-id="555" tvg-name="HISTORY Channel" tvg-logo="https://variety.com/wp-content/uploads/2018/02/history-channel-logo.jpg?w=1000" group-title="Dokumentari",HISTORY Channel
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/94.m3u8
 http://topwin-tv.my.id/2/chunklist.m3u8?id=history&bandwidth=default&sync=0
 #https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #http://iptv.tvmalaysia.cc:80/penang123/penang123/6799
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4wbZUfh.png" group-title="Dokumentari",CGTN DOCUMENTARY
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-name="Travel Channel HD" tvg-logo="http://tvmalaysia.cc:80/images/83d09665000ad543908d67e15689dc6c.jpg" group-title="Dokumentari",Travel Channel HD
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6833
+#http://iptv.tvmalaysia.cc:80/penang123/penang123/6833
 #EXTINF:-1 tvg-id="CHN" group-title="Dokumentari" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/OC_Logo2017_Primary_2_%281%29.svg/revision/latest/scale-to-width-down/250?cb=20170428060035",Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="Dokumentari",Love Nature 4K
@@ -230,7 +230,7 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/56yF6Zx/simin.jpg" group-title="Dokumentari",Bisnet Adventure.
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="DMAX HD" tvg-logo="http://tvmalaysia.cc:80/images/433e2f828d5c3bc6eafe1a1c5caa1d84.jpg" group-title="Dokumentari",DMAX HD
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6778
+#http://iptv.tvmalaysia.cc:80/penang123/penang123/6778
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Dokumentari",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
@@ -317,24 +317,24 @@ http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 #EXTINF:-1 tvg-id="811" tvg-name="ASTRO Supersport" tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png" group-title="Sukan",ASTRO Supersport
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/66.m3u8
-#http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/59220 
-http://meu02.cularu.com:8880/yw12m2n466/UYWyCspA67/59220
+http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/59220 
+#http://meu02.cularu.com:8880/yw12m2n466/UYWyCspA67/59220
 #http://iptv.tvmalaysia.cc:80/penang188/penang188/6708
 #EXTINF:-1 tvg-id="812" tvg-name="ASTRO Supersport 2" tvg-logo="https://i.postimg.cc/LXv2LpmL/Astro-Super-Sport-2.png" group-title="Sukan",ASTRO Supersport 2
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/67.m3u8
-#backup-http://meu02.cularu.com:8880/yw12m2n466/UYWyCspA67/59219
+http://meu02.cularu.com:8880/yw12m2n466/UYWyCspA67/59219
 #http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/59219
-http://iptv.tvmalaysia.cc:80/penang188/penang188/6710
+#http://iptv.tvmalaysia.cc:80/penang188/penang188/6710
 #EXTINF:-1 tvg-id="813" tvg-name="ASTRO Supersport 3" tvg-logo="https://i.postimg.cc/3wmgKLYP/200px-Astro-ASSP3.png" group-title="Sukan",ASTRO Supersport 3
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/68.m3u8
 #http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/59218
-#backup-http://meu02.cularu.com:8880/yw12m2n466/UYWyCspA67/59218
-http://iptv.tvmalaysia.cc:80/penang188/penang188/6711
+http://meu02.cularu.com:8880/yw12m2n466/UYWyCspA67/59218
+#http://iptv.tvmalaysia.cc:80/penang188/penang188/6711
 #EXTINF:-1 tvg-id="814" tvg-name="ASTRO Supersport 4" tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="Sukan",ASTRO Supersport 4
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/69.m3u8
 #http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/59217
-#backup-http://meu02.cularu.com:8880/yw12m2n466/UYWyCspA67/59217
-http://iptv.tvmalaysia.cc:80/penang188/penang188/6712
+http://meu02.cularu.com:8880/yw12m2n466/UYWyCspA67/59217
+#http://iptv.tvmalaysia.cc:80/penang188/penang188/6712
 #EXTINF:-1 tvg-id="815" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/12/fs1-1024x576.png" group-title="Sukan",FoxSport 1
 #http://194.233.68.128:5080/LiveApp/streams/520502764452315618812610.m3u8
 #https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
@@ -367,31 +367,11 @@ http://93.157.62.180/Supersport3/index.m3u8
 http://93.157.62.180/Supersport4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gvP8YWx/Super-Sport.png" group-title="Sukan", Super Sports 5
 http://93.157.62.180/Supersport5/index.m3u8
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="UK: SKY SPORTS F1" tvg-logo="" group-title="Sukan",UK: SKY SPORTS F1
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19293
-#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="UK: SKY SPORTS FOOTBALL" tvg-logo="" group-title="Sukan",UK: SKY SPORTS FOOTBALL
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19294
-#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-name="UK: SKY SPORTS GOLF" tvg-logo="" group-title="Sukan",UK: SKY SPORTS GOLF
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19295
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="UK: SKY SPORTS MAIN EVENT" tvg-logo="" group-title="Sukan",UK: SKY SPORTS MAIN EVENT
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19296
-#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="UK: SKY SPORTS MIX" tvg-logo="" group-title="Sukan",UK: SKY SPORTS MIX
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19297
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS NFL" tvg-logo="" group-title="Sukan",UK: SKY SPORTS NFL
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19298
-#EXTINF:-1 tvg-id="SkySp.Racing.uk" tvg-name="UK: SKY SPORTS RACING" tvg-logo="" group-title="Sukan",UK: SKY SPORTS RACING
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19299
-#EXTINF:-1 tvg-id="" tvg-name="UK: UFC Fight Pass" tvg-logo="" group-title="Sukan",UK: UFC Fight Pass
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19300
 #EXTINF:-1 tvg-id="EuroSport" group-title="Sukan" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/38_144.png",Eurosport HD
 #http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
 #http://iptv.tvmalaysia.cc:80/penang123/penang123/6784
 #https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
 http://134.19.182.131:8080/vdg15.m3u8?h=9li1s9238t24a37sw0094i6s2e11p543p
-#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="UK: Eurosport 1" tvg-logo="" group-title="Sukan",UK: Eurosport 1
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19283
-#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="UK: Eurosport 2" tvg-logo="" group-title="Sukan",UK: Eurosport 2
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19284
 #EXTINF:-1 tvg-id="HorizonSports.us" tvg-name="Horizon Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sjOIOkK.png" group-title="Sukan",Horizon Sports -A
 #https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
@@ -401,18 +381,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-country="FR" tvg-logo="https://pbs.twimg.com/profile_images/1020624523354345472/WZ1ZVRGa.jpg" group-title="Sukan",ONE GOLF
 #http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 group-title="Sukan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF0sUAMJY6dHq8wPLQheyjJv_Iu1OoBNQbag&usqp=CAU",Usee Sport1
-https://iptvid.cgflix.xyz/Usee/sport/usees1.m3u8
-#EXTINF:-1 group-title="Sukan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF0sUAMJY6dHq8wPLQheyjJv_Iu1OoBNQbag&usqp=CAU",Usee Sport 2
-https://iptvid.cgflix.xyz/Usee/sport/usees2.m3u8
-#EXTINF:-1 group-title="Sukan" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-1-1166.png",beIN Sport 1 ID
-https://iptvid.cgflix.xyz/Usee/sport/be1.m3u8
-#EXTINF:-1 group-title="Sukan" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-2-1167.png",beIN Sport 2 ID
-https://iptvid.cgflix.xyz/Usee/sport/be2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK: beIN SPORTS" tvg-logo="" group-title="Sukan",beIN SPORTS
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19275
-#EXTINF:-1 tvg-id="beINSports2.MACAN" group-title="Sukan" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2.png",beIN Sports 2
-#http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60284
 #EXTINF:-1 tvg-id="BeINSPORTSMAX" group-title="Sukan" tvg-logo="https://i.postimg.cc/QxTnfTBd/bein-sports-max.png",beIN Sports MAX HD
 http://iptv.tvmalaysia.cc:80/321456/321456/6748
 #EXTINF:-1 tvg-name="beINSports 1 Premium AR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="Sukan",BeIN Sports 1 Premium
@@ -421,18 +389,7 @@ http://55.1-bour.xyz/live/6161655/index.m3u8
 http://55.1-bour.xyz/live/616194987/index.m3u8
 #EXTINF:-1 tvg-name="beINSports 3 Premium AR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="Sukan",BeIN Sports 3 Premium
 http://55.1-bour.xyz/live/6151278887/index.m3u8
-#EXTINF:-1 tvg-id="BT.Sport.1.HD.uk" tvg-name="UK: BT SPORT 1" tvg-logo="" group-title="Sukan",UK: BT SPORT 1
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19277
-#EXTINF:-1 tvg-id="BT.Sport.2.HD.uk" tvg-name="UK: BT SPORT 2" tvg-logo="" group-title="Sukan",UK: BT SPORT 2
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19278
-#EXTINF:-1 tvg-id="BT.Sport.3.HD.uk" tvg-name="UK: BT SPORT 3" tvg-logo="" group-title="Sukan",UK: BT SPORT 3
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19279
-#EXTINF:-1 tvg-id="BTSpt//ESPNHD.uk" tvg-name="UK: BT SPORT ESPN" tvg-logo="" group-title="Sukan",UK: BT SPORT ESPN
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19280
-#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="UK: LFC TV" tvg-logo="" group-title="UK Sports Pack",UK: LFC TV
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19287
-#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-name="UK: MUTV" tvg-logo="" group-title="UK Sports Pack",UK: MUTV
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19288
+
 
 
 
@@ -440,19 +397,4 @@ http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/19288
 
 #EXTINF:-1 tvg-id="601" group-title="Education" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/TutorTVSK.png/revision/latest?cb=20210614003048",601 Astro Tutor TV SK
 https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884965
-#EXTINF:-1 tvg-id="MY: ASTRO TUTOR TV PT3" tvg-name="ASTRO Tutor TV PT3" tvg-logo="https://i.postimg.cc/TPTncYQN/TTV-PT3.png" group-title="Education",Tutor TV PT3
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6734
-#EXTINF:-1 tvg-id="MY: ASTRO TUTOR TV SPM" tvg-name="ASTRO Tutor TV SPM" tvg-logo="https://i.postimg.cc/tgSQqJML/TTV-SPM.png" group-title="Education",Tutor TV SPM
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6735
-#EXTINF:-1 tvg-id="MY: ASTRO TVIQ" tvg-name="ASTRO Tutor TV UPSR" tvg-logo="https://i.postimg.cc/tC5rQffc/TTV-UPSR.png" group-title="Education",Tutor TV UPSR
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6736
 
-
-
-
-#EXTINF:-1 tvg-id="animax.my" tvg-name="Animax" tvg-logo="http://tvmalaysia.cc:80/images/3177be485607747ef576c771c168fefe.png" group-title="Extra",Animax
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6696
-#EXTINF:-1 tvg-id="cartoonnetwork.my" tvg-name="Cartoon Network HD" tvg-logo="http://tvmalaysia.cc:80/images/08273b5f68d3f56ab5961a81834732b1.png" group-title="Extra",Cartoon Network HD
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6757
-#EXTINF:-1 tvg-id="MY: ANIPLUS" tvg-name="Aniplus HD" tvg-logo="https://i.postimg.cc/dtQMKrQQ/ZZ-Pw-KWt-400x400.jpg" group-title="Extra",Aniplus HD
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6697
