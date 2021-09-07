@@ -299,10 +299,6 @@ http://watchindia.net:8880/live/33253/72963/2102.ts
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSNKnJP/hallmar-more.png" group-title="Movie",US: Hallmark Movies & More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="EPIX.HDTV.(East).(EPIXHD).us" tvg-name="Epix East US" tvg-logo="https://i.ibb.co/fxSWkNC/epix.png" group-title="Movie",US: Epix East HD
-http://bestsave.ltd:8011/1020304050/5040302010/81102
-#EXTINF:-1 tvg-id="EPIX2.HDTV.(East).(EPIXHD).us" tvg-name="EPIX2 HDTV (East) (EPIXHD)" tvg-logo="https://i.ibb.co/wrLcbv6/epix2.png" group-title="Movie",US: Epix 2 East HD
-http://bestsave.ltd:8011/1020304050/5040302010/81101
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PYPLz36/trill.png" group-title="Movie",THRILL
 http://210.210.155.35/session/453c7fb4-6a31-11e9-b1c1-bf03b175abaa/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-id="Zee Cafe HD" tvg-name="Zee Cafe HD" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" group-title="Movie",Zee Cafe HD
