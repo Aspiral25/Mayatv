@@ -33,8 +33,8 @@ https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF:-1 tvg-id="502" tvg-name="Bernama TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" group-title="MYTV",Bernama -A
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 tvg-id="TVS.my" tvg-name="TVS" tvg-country="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/220px-TVS_Sarawak.jpg" group-title="MYTV",TVS
-#https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6846
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+
 
 
 
