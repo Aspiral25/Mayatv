@@ -142,6 +142,12 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://c0.klipartz.com/pngpicture/277/621/gratis-png-reino-unido-cielo-noticias-radio-noticias-de-ultima-hora-reino-unido.png" group-title="Dunia",SKY NEWS
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:-1 group-title="Dunia" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" tvg-id="", ABC News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1631039472/ei/kFs3YYy5LMHUugLtjofADw/ip/13.89.242.59/id/w_Ma8oQLmSM.6/source/yt_live_broadcast/requiressl/yes/tx/24047101/txs/24047098%2C24047099%2C24047100%2C24047101%2C24047102%2C24047103%2C24047104/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/23886213/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgay2iAB4QNmWQGqscgBgXEpoP-dI9rp3x8g3OJOAA780CIB4vSYdA0W0iCnpdBWl0Ur1yQdoBIDdCvUGuKRDXnXBd/file/index.m3u8
+#EXTINF:-1 group-title="Dunia" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", DW News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1631039524/ei/xFs3Yf6qE9SvuAK8xqj4DQ/ip/13.89.242.59/id/NjugILSG_Wo.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHdyHH9O_BSjhnYgdV-q2umJHVuHujaF6iyTyQbE-iZwCIEy-P3Fkqmd1SMCwrfq50UsIVhQY8gYjvEx3tOZYYwcM/file/index.m3u8
+#EXTINF:-1 group-title="Dunia" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTmW20Du3RIn5YTCud3cZUaCWDkh_XdJ3fNKf_r=s176-c-k-c0x00ffffff-no-rj" tvg-id="", GBNews
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1631039525/ei/xVs3YeX_Frevlu8P-e61qAQ/ip/13.89.242.59/id/WusG7ele_GY.1/source/yt_live_broadcast/requiressl/yes/tx/23997971/txs/23997970%2C23997971%2C24008108/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANUkz4bm68LEVBqBpiU_VNpEWLh85X5k2-u8vZ_8CPFQAiBlWD6fgwiVhu18r12paO9lIUAA0XNeQa6EPd099pkTkw%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.etere.com/DocImageArchive/636725371756507916.png" group-title="Dunia",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUphGsPsjNpVByb0bcVJbuLnbGyjT6vdXjtPK5mOz9vYY5zieK" group-title="Dunia", CNN INDONESIA
@@ -241,7 +247,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
 
-
 #EXTINF:-1 tvg-id="404" tvg-name="BOO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="Movie",Boo
 #backup-http://iptv.tvmalaysia.cc:80/321456/321456/8872
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
@@ -251,9 +256,11 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #http://watchindia.net:8880/live/33253/72963/2101.ts
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ea01782c6689f21f02fd5da12f2abaccf665cea2a8b27f47525d555cfcf4f6a89c54f39dfadd61248f84db4f0f33ce7ffb285c725ac82fb695731e8c178a80874ef978bf9954d2463ae85776d5a3016c96f961438f6665a521804afde21d9fd2187f&mac=00:1A:79:32:15:A7&ip=118.101.224.193&magic_server=MAIN_MP
 #EXTINF:-1 tvg-id="" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/flix-280-200.png" group-title="Movie",&FLIX HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2020/06/25/868730-privehd.jpg" group-title="Movie",&Prive HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-id="warnertv.my" tvg-name="Warner TV" tvg-logo="http://tvmalaysia.cc:80/images/fe971dedf93c15bae582eea20afa0a7f.png" group-title="Movie",Warner TV
 #http://iptv.tvmalaysia.cc:80/penang123/penang123/6848
 http://iptvid.cgflix.xyz/Usee/movies/wrnr.m3u8
@@ -348,10 +355,12 @@ http://50.7.161.82:8278/streams/d/foxsports_pye/playlist.m3u8
 #http://iptv.tvmalaysia.cc:80/penang123/penang123/6791
 #http://50.7.161.82:8278/streams/d/foxsports2_pye/playlist.m3u8
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
+#backup-http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
 https://livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="foxsports3.my" tvg-name="FOX Sports 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/6295d50d665d4e35bd56f0cf6a01b3da.png" group-title="Sukan",FOX Sports 3 HD
 #http://iptv.tvmalaysia.cc:80/penang123/penang123/6792
 #https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
+#backup-http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
 https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Sukan" tvg-logo="https://i.ibb.co/NjKCwgs/ten-1.png",TEN 1 HD
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
@@ -385,16 +394,21 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-country="FR" tvg-logo="https://pbs.twimg.com/profile_images/1020624523354345472/WZ1ZVRGa.jpg" group-title="Sukan",ONE GOLF
 #http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:0 tvg-id="Golf.es" group-title="Sukan",CNBC Golf
+http://topwin-tv.my.id/2/master.m3u8?id=golfplus
 #EXTINF:-1 tvg-id="BeINSPORTSMAX" group-title="Sukan" tvg-logo="https://i.postimg.cc/QxTnfTBd/bein-sports-max.png",beIN Sports MAX HD
 http://iptv.tvmalaysia.cc:80/321456/321456/6748
 #EXTINF:-1 tvg-name="beINSports 1 Premium AR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="Sukan",BeIN Sports 1 Premium
 http://55.1-bour.xyz/live/6161655/index.m3u8
 #EXTINF:-1 tvg-name="beINSports 2 Premium AR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="Sukan",BeIN Sports 2 Premium
+#http://topwin-tv.my.id/2/master.m3u8?id=bein2
 http://55.1-bour.xyz/live/616194987/index.m3u8
 #EXTINF:-1 tvg-name="beINSports 3 Premium AR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="Sukan",BeIN Sports 3 Premium
 http://55.1-bour.xyz/live/6151278887/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/useesport1.png" group-title="Sukan",UseeSports 1
+http://topwin-tv.my.id/2/master.m3u8?id=useesport
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/useesport2.png" group-title="Sukan",UseeSports 2
+http://topwin-tv.my.id/2/master.m3u8?id=useesports2
 
 
 
@@ -409,3 +423,5 @@ https://m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884965
 http://topwin-tv.my.id/2/master.m3u8?id=animax
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/aniplus.png" group-title="Extra",Aniplus
 http://topwin-tv.my.id/2/master.m3u8?id=aniplus
+#EXTINF:-1 group-title="Extra" tvg-logo="" tvg-id="", 4K Nature 24/7- LoungeV Films
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1631039503/ei/r1s3YYqfKofIuQKNnL-oAQ/ip/13.89.242.59/id/2CD9aEjFZwU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPOlseIlnO2H3EmIqPFn_wbTcejJavtHSHF8E6tZ5zk8AiEAlEQs2x1Ll8IG-vpMr4-No7odn8dkXDm1E9MN3k89p08%3D/file/index.m3u8
