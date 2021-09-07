@@ -123,19 +123,19 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 
 #EXTINF:-1 tvg-id="513" tvg-name="AlJazeera" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/83d7b3d3df0b2dff23bf51ad0d028d6b.webp" group-title="Dunia",AlJazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tchadcarriere.com/wp-content/uploads/2017/05/TRT-World.png" group-title="Dunia",TRT WORLD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.screenafrica.com/wp-content/uploads/2018/11/TRT-world-696x398.png" group-title="Dunia",TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b885dddf8d0e990d24c4a3fae05c4194.webp" group-title="Dunia",NHK World
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="Dunia",NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 tvg-id=“515” tvg-logo="newsasia.png"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CNA_new_logo.svg" group-title="Dunia", CNA
+#EXTINF:-1 tvg-id=“515” tvg-logo="newsasia.png"tvg-logo="https://personalexcellence.co/files/channel-news-asia-logo.jpg" group-title="Dunia", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="517" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK4kTvbHBoPmYS_VLZJhwG0pm1Ov63pFpghPZTcNzPrAaMtteK&s" group-title="Dunia",BLOOMBERG
+#EXTINF:-1 tvg-id="517" tvg-logo="http://assets.stickpng.com/images/608ff6fc5d1f990004970e68.png" group-title="Dunia",BLOOMBERG
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.crispincorp.com/wp-content/uploads/2018/02/CBSN-logo.png" group-title="Dunia",CBSN
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5048e660e4b0bd178ab35a57/1549617061592-E0Y4ZBJ45SOD66MIQXLV/51UjITm0Z-L._SY355_.jpg" group-title="Dunia",CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTia14lkLI-qBxhopo1we3YEb2UNGoz6PogBUIkUb2ZFISXXLE7&s" group-title="Dunia",CGTN
+#EXTINF:-1 tvg-id="" tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png" group-title="Dunia",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLdslwH8ASKwyg2mT4CsSzZrSioZeb0cieSBwRwrWjq8QGUNy95A" group-title="Dunia",SKY NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="https://c0.klipartz.com/pngpicture/277/621/gratis-png-reino-unido-cielo-noticias-radio-noticias-de-ultima-hora-reino-unido.png" group-title="Dunia",SKY NEWS
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.etere.com/DocImageArchive/636725371756507916.png" group-title="Dunia",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
@@ -143,13 +143,11 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2021/02/Fox-News-logo.jpg" group-title="Dunia",FOX NEWS CHANNEL
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Dunia" tvg-logo="http://arirang.com/images/index/arirang.png",Arirang TV
+#EXTINF:-1 tvg-id=" " group-title="Dunia" tvg-logo="https://i.pinimg.com/736x/a4/61/3d/a4613d37d2fcea2248e45cee45a194aa.jpg",Arirang TV
 #http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fdc02682b28587aac705ec5616ab913a.webp" group-title="Dunia",RT
-https://r1---sn-uphxqvujvh-2xol.googlevideo.com/videoplayback?expire=1630793626&ei=OpszYaVM0bzUBsqUhagP&ip=2001%3Af40%3A905%3A5e6f%3Ad9c%3Ae6b3%3Ae310%3Ac6cf&id=V0I5eglJMRI.1&itag=140&source=yt_live_broadcast&requiressl=yes&mh=PV&mm=44%2C29&mn=sn-uphxqvujvh-2xol%2Csn-30a7rn76&ms=lva%2Crdu&mv=m&mvi=1&pl=50&ctier=A&initcwndbps=1490000&hightc=yes&vprv=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&ns=oryLq_eoI8wCg28LrxYsXqcG&gir=yes&mt=1630771711&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=iM-aiKvpP8GaFw&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cctier%2Chightc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAMAqkM8-dzxAJaISEmIFjjR2AJlKGB9w9nbmBlhgvGRtAiEA34YF6TXWAiUhHjFPhH9azvLMTimRI_6oNUyo119kPy0%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAN9RlVm4Fc_wXoanjhvLJ3Omd-1eWmgbU0tCQXgrbXwTAiB_XJgX7Z0D0ffUlCz7UNzMstFu_RGFEh3dlcgpXwUWyQ%3D%3D&alr=yes&cpn=eGv4CgM7uiAgYxNM&cver=1.20210901.1.0&sq=883081&rn=8&rbuf=8294
-#EXTINF:-1 tvg-id="MY: ABC AUSTRALIA" tvg-name="ABC Australia" tvg-logo="http://tvmalaysia.cc:80/images/cd8015182af2a1350c156be7f4913720.jpg" group-title="Dunia",ABC Australia
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6692
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.playboard.app/p/AATXAJw-iUyR97oFl8fiassaTg8llEyB31BzYzup1fLJDKI/default.jpg" group-title="Dunia",MakkahTv
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
 #EXTINF:-1 group-title="Dunia" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg", Madinah live
