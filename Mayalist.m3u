@@ -21,6 +21,7 @@ https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="MYTV",AWESOME TV
 #http://51.79.208.146:61980/myplay/c_58014/index.m3u8
 #http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9016
+#https://m3u-editor.com/serve/5a9d6b60-0270-11ec-8530-cbb324853ece/361125831
 http://iptv.tvmalaysia.cc:80/penang123/penang123/9016
 #http://mantul.biz.id:8888/jiwa/jiwa/10650
 #EXTINF:-1 tvg-id="" tvg-name="TV Alhijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="MYTV",Al-hijrah
@@ -90,7 +91,8 @@ http://198.16.106.62:8278/streams/d/Ria/playlist.m3u8
 #EXTINF:-1 tvg-id="132" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="Astro",Astro Warna
 #http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 #http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/1706
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6740
+#http://iptv.tvmalaysia.cc:80/penang123/penang123/6740
+https://www.m3u-editor.com/serve/e9b53cc0-f474-11eb-984f-31368ffb6476/348884927
 #EXTINF:-1 tvg-id="106" tvg-country="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Astro",Astro Oasis
 #backup-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/1701
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
@@ -107,11 +109,13 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #http://152.89.61.12:25461/live/UUweNyPl3Z/LqUEgGeOO8/6.m3u8
 #http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71144
 #http://50.7.161.82:8278/streams/d/Rania/playlist.m3u8
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6729
+#http://iptv.tvmalaysia.cc:80/penang123/penang123/6729
+http://iptv.tvmalaysia.cc:80/989898/989898/6729
 #EXTINF:-1 tvg-id="AstroAuraHD" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",Astro Aura HD
 #http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71145
 #http://50.7.161.82:8278/streams/d/Aura/playlist.m3u8
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6713
+#http://iptv.tvmalaysia.cc:80/penang123/penang123/6713
+http://iptv.tvmalaysia.cc:80/989898/989898/6713
 #EXTINF:-1 tvg-id="109" tvg-name="Naura" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" group-title="Astro",Astro Naura
 #backup-http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/71023
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
